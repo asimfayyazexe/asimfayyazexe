@@ -1,6 +1,10 @@
-🖥️ Frontend Developer
-💻 Love to Code
-🤖 Gen AI Enthusiast
-📚 Research & Learn
-⚙️ Problem Solver
-🎯 Detail Oriented
+<div>
+
+🖥️ Frontend Developer <br>
+💻 Love to Code <br>
+🤖 Gen AI Enthusiast <br>
+📚 Research & Learn <br>
+⚙️ Problem Solver <br>
+🎯 Detail Oriented <br>
+
+</div>
